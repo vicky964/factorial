@@ -1,2 +1,0 @@
-# factorial
-logical programs python
